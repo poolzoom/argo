@@ -1,9 +1,9 @@
 {
-    "name": "dsposito/argo",
+    "name": "poolzoom/argo",
     "description": "A shipping utility.",
     "keywords": ["argo", "shipping", "tracking number", "php"],
     "type": "library",
-    "homepage": "https://github.com/dsposito/argo",
+    "homepage": "https://github.com/poolzoom/argo",
     "license": "MIT",
     "authors": [
         {
